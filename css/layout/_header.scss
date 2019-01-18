@@ -1,0 +1,39 @@
+.section-1{
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-between;
+    margin-left: 80%;
+    top: -1em;
+
+}
+
+
+
+.section-1__icon-instagram {
+    position: relative;
+    width: 3em;
+    height: 3em;
+}
+
+
+.section-1__icon-twitter {
+    position: relative;
+    width: 3em;
+    height: 3em;
+}
+
+.section-1__icon-facebook{
+    position: relative;
+    width: 3em;
+    height: 3em;
+}
+
+.h1{
+    position: relative;
+    text-align: center;
+    background-color: rgba($color: blue, $alpha: 0.5);
+    
+    
+
+}

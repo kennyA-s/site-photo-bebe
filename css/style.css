@@ -1,1 +1,35 @@
+.nav-top {
+  width: 20%;
+  display: flex;
+  justify-content: flex-start;
+  justify-content: space-between; }
 
+.section-1 {
+  position: relative;
+  display: flex;
+  justify-content: flex-end;
+  justify-content: space-between;
+  margin-left: 80%;
+  top: -1em; }
+
+.section-1__icon-instagram {
+  position: relative;
+  width: 3em;
+  height: 3em; }
+
+.section-1__icon-twitter {
+  position: relative;
+  width: 3em;
+  height: 3em; }
+
+.section-1__icon-facebook {
+  position: relative;
+  width: 3em;
+  height: 3em; }
+
+.h1 {
+  position: relative;
+  text-align: center;
+  background-color: rgba(0, 0, 255, 0.5); }
+
+/*# sourceMappingURL=style.css.map */
